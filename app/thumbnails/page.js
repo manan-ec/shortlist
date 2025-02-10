@@ -65,7 +65,7 @@ export default function ThumbnailsPage() {
                     <ImageItem
                         key={imgName}
                         imgName={imgName}
-                        urlPrefix="https://emptycup3d.azureedge.net/render-thumbnails/"
+                        urlPrefix="https://studio3d.azureedge.net/render-thumbnails/"
                         isChecked={stageOneShortlist.includes(imgName)}
                         onToggle={_toggleShortlist}
                         containerClass="thumbnailItem"

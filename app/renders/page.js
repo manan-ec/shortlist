@@ -62,7 +62,7 @@ export default function FullImagesPage() {
                             <ImageItem
                                 key={imgName}
                                 imgName={imgName}
-                                urlPrefix="https://emptycup3d.azureedge.net/renders/"
+                                urlPrefix="https://studio3d.azureedge.net/renders/"
                                 isChecked={finalShortlist.includes(imgName)}
                                 onToggle={_toggleFinalShortlist}
                                 containerClass="fullImageItem"

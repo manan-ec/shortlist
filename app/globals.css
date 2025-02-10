@@ -94,7 +94,6 @@ a {
     position: relative;
     width: 400px;
     margin: 10px;
-    min-height: 210px;
     overflow: hidden;
 }
 
@@ -134,7 +133,6 @@ a {
     position: relative;
     width: 1400px;
     margin: 10px;
-    min-height: 780px;
     overflow: hidden;
 }
 
